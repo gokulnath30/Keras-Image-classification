@@ -1,6 +1,6 @@
 # Brain Tuber Prediction using keras image classification
 
-* Collect the dataset and classifie the data into folders. 
+* Collect the dataset and classified the data into folders. 
 
 ## Prepare Dataset for Training
   py load_data.py
