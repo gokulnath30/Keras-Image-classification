@@ -1,4 +1,4 @@
-# Brain Tuber Prediction using keras image classification
+# Brain Tumor Prediction using keras image classification
 
 * Collect the dataset and classified the data into folders. 
 
