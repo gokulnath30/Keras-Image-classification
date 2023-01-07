@@ -1,6 +1,7 @@
 # Brain Tumor Prediction using keras image classification
 
 * Collect the dataset and classified the data into folders. 
+* To add the Folder path in load_data.py
 
 ## Prepare Dataset for Training
     py load_data.py
